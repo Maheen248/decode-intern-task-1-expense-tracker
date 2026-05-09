@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (Task 1 - DecodeLabs Internship)
+# 💰 Expense Tracker (Task 2 - DecodeLabs Internship)
 
 A simple Python-based Expense Tracker CLI application built as part of the DecodeLabs Internship Task 1. This project helps users manage and track their daily expenses using a command-line interface.
 
